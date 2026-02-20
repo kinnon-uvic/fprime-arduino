@@ -1,2 +1,2 @@
-cmake>=3.26.4
-arduino-cli-cmake-wrapper==0.2.0a1
+cmake>=3.26.0
+arduino-cli-cmake-wrapper @ git+https://github.com/kinnon-uvic/arduino-cli-cmake-wrapper@devel-candidate
